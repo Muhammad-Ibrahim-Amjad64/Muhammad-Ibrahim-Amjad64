@@ -1,4 +1,4 @@
-### About 👋
+###  About
 
 I am a skilled MERN Stack and iOS/Android applications developer with extensive experience in utilizing cutting-edge technologies, including Next.js, React Native, React, Node.js, MongoDB, Firebase, MySQL, Git/GitHub, JavaScript, HTML5, and CSS3.
 
