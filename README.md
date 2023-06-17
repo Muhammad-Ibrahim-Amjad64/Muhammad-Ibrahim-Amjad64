@@ -10,8 +10,10 @@ ________________________________________________________________________________
 
 ## Expense tracker
 
-Download Expense tracker Apk :
-Mp4 preview : 
+Download Expense tracker Apk : rb.gy/nk5ti
+Mp4 preview : rb.gy/ohzau
+
+
 
 ## Food Order App 
 
