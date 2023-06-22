@@ -7,7 +7,8 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
 
 Connect with me:
 abbas imran
+![linked-in-alt](https://github.com/Muhammad-Ibrahim-Amjad64/Muhammad-Ibrahim-Amjad64/assets/117453694/817851de-d4f4-4d4c-b6f3-de36f9847f0d)
 
-Languages and Tools:
-cplusplus csharp css3 express heroku html5 javascript mongodb mysql nodejs react
+
+![cplusplus-original](https://github.com/Muhammad-Ibrahim-Amjad64/Muhammad-Ibrahim-Amjad64/assets/117453694/d39a59ef-cacf-486d-a4bb-7bafbb5e6ecc)
 
