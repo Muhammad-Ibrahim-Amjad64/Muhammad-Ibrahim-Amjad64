@@ -5,3 +5,9 @@ My passion drives me to approach every task with enthusiasm, perceiving each cha
 
 Please do not hesitate to reach out to me at +923122990606. I look forward to collaborating with you and delivering exceptional results.
 
+Connect with me:
+abbas imran
+
+Languages and Tools:
+cplusplus csharp css3 express heroku html5 javascript mongodb mysql nodejs react
+
