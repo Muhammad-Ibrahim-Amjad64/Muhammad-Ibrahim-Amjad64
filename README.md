@@ -8,6 +8,8 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
 Connect with me:
 https://www.linkedin.com/in/muhammad-ibrahim-khan-68111a1a1/
 
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ### Potfolio 
 Under Development 
 
