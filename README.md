@@ -29,6 +29,10 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
               
 
 ### Potfolio 
-https://portfolio-muhammad-ibrahim-khan-ubit.netlify.app/
+ <a href="https://portfolio-muhammad-ibrahim-khan-ubit.netlify.app/">
+    <img src="https://img.shields.io/badge/My_portfolio-black" alt="facebook"/>
+  </a>
+
+
 
 
