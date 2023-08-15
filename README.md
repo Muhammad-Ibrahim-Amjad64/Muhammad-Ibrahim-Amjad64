@@ -20,7 +20,7 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
     <a href="https://www.facebook.com/Muhammad.Ibrahim.Amjad.k/">
-    <img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" alt="facebook"/>
+    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
   </a>
 
 
@@ -28,9 +28,8 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
 </div>
               
 
-### Potfolio 
  <a href="https://portfolio-muhammad-ibrahim-khan-ubit.netlify.app/">
-    <img src="https://img.shields.io/badge/My_portfolio-black" alt="facebook"/>
+    <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=next.js&logoColor=white" alt="portfolio"/>
   </a>
 
 
