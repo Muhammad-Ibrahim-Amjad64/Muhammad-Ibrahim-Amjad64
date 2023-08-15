@@ -24,7 +24,7 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
 </p>
 <p align="center">
    
-
+ <a href="https://github.com/Muhammad-Ibrahim-Amjad64"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Muhammad-Ibrahim-Amjad64&style=flat-square"></a>
 
  
 </div>
