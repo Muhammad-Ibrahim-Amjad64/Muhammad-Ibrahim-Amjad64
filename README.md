@@ -19,19 +19,11 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
 
 
 <p align="center">
-    <a href="https://github.com/Muhammad-Ibrahim-Amjad64"><img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=lutfilahdzaky&theme=dracula&show_icons=true&hide_border=true"></a>
-    <a href="https://github.com/Muhammad-Ibrahim-Amjad64"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=lutfilahdzaky&theme=dracula&hide_border=true"></a>
+    <a href="https://github.com/Muhammad-Ibrahim-Amjad64"><img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ibrahim-Amjad64&theme=dracula&show_icons=true&hide_border=true"></a>
+    <a href="https://github.com/Muhammad-Ibrahim-Amjad64"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Ibrahim-Amjad64&theme=dracula&hide_border=true"></a>
 </p>
 <p align="center">
-    <a href="https://youtube.com/lutfilahdz?sub_confirmation=1"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCPHiZNMamtbYzGOICSKoY2A?label=YouTube&logo=YouTube&style=for-the-badge"></a>
-    <a href="https://discord.gg/MXBycqz"><img alt="Discord" src="https://img.shields.io/discord/398660596473659403?label=Discord&logo=Discord&style=for-the-badge"></a>
-    <a href="https://github.com/Muhammad-Ibrahim-Amjad64?tab=followers"><img alt="GitHub" src="https://img.shields.io/github/followers/lutfilahdzaky?label=GitHub&logo=GitHub&style=for-the-badge"></a>
-</p>
-<p align="center">
-    <a href="https://Muhammad-Ibrahim-Amjad64.my.id"><img alt="Website" src="https://img.shields.io/website?down_message=Offline&label=Muhammad-Ibrahim-Amjad64.my.id&style=flat-square&up_message=Online&url=https%3A%2F%2Flutfilahdz.my.id"></a>
-    <a href="https://github.com/Muhammad-Ibrahim-Amjad64"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Muhammad-Ibrahim-Amjad64&style=flat-square"></a>
-</p>
-
+   
 
 
  
