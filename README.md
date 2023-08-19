@@ -16,7 +16,9 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=muhammad-ibrahim-khan-68111a1a1">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
+ <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=muhammad-ibrahim-khan-68111a1a1">
+    <img src="https://img.shields.io/badge/Download_CV-gray?style=for-the-badge&logo=netflix&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 <p align="center">
     <a href="https://github.com/Muhammad-Ibrahim-Amjad64"><img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ibrahim-Amjad64&theme=dracula&show_icons=true&hide_border=true"></a>
