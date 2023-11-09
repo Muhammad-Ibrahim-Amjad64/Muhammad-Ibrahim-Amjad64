@@ -9,12 +9,12 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
 
 
 <div id="badges">
- <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=muhammad-ibrahim-khan-68111a1a1">
+<!--  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=muhammad-ibrahim-khan-68111a1a1">
     <img src="https://img.shields.io/badge/Download_CV-white?style=for-the-badge&logo=adobe&logoColor=black" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=muhammad-ibrahim-khan-68111a1a1">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> -->
 <!--    <a href="https://portfolio-muhammad-ibrahim-khan-ubit.netlify.app/">
     <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=next.js&logoColor=white" alt="portfolio"/>
   </a>
