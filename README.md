@@ -32,7 +32,7 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
 </div>
 
 
- IBTASEM---------------------------------------------------------------
+ 
 
  <h1 align="center"> Hi ! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
@@ -79,7 +79,9 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ibrahim-Amjad64&theme=dark" />
 </p>
 
-[![@ibtesam's Holopin board](https://holopin.io/api/user/board?user=Muhammad-Ibrahim-Amjad64)](https://holopin.io/@Muhammad-Ibrahim-Amjad64)
+<a href="https://github.com/Muhammad-Ibrahim-Amjad64"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Muhammad-Ibrahim-Amjad64&style=flat-square"></a>
+
+ 
 
 
 <div align="center">
