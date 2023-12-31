@@ -57,7 +57,7 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
 <a href="https://www.linkedin.com/in/ibtesam-ahmed-380196105/">
   <img align="left" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
-<a href="mailto:getibtesam@gmail.com">
+<a href="mailto:mibtahimmkhann@gmail.com">
   <img align="left" width="35px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 
@@ -69,17 +69,17 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
 <div align="center">
  <h3>Some Cool Github Stats:</h3> 
 </div>
-<h3 align="center">Github@<a href="https://github.com/Muhammad-Ibrahim-Amjad64">GetIbtesamAhmed</a></h3> 
+<h3 align="center">Github@<a href="https://github.com/Muhammad-Ibrahim-Amjad64">Muhammad-Ibrahim-Amjad64</a></h3> 
 <p align="center">
   <img width="90%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ibrahim-Amjad64&show_icons=true&theme=dark" />
 </p>
 
-<h3 align="center">Github@<a href="https://github.com/Muhammad-Ibrahim-Amjad64">MuhammadIbrahim</a></h3> 
+<h3 align="center">Github@<a href="https://github.com/Muhammad-Ibrahim-Amjad64">Muhammad-Ibrahim-Amjad64</a></h3> 
 <p align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ibrahim-Amjad64&theme=dark" />
 </p>
 
-[![@ibtesam's Holopin board](https://holopin.io/api/user/board?user=ibtesam)](https://holopin.io/@ibtesam)
+[![@ibtesam's Holopin board](https://holopin.io/api/user/board?user=Muhammad-Ibrahim-Amjad64)](https://holopin.io/@Muhammad-Ibrahim-Amjad64)
 
 
 <div align="center">
