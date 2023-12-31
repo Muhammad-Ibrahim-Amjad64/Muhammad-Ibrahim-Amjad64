@@ -50,6 +50,9 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
 <a href="https://github.com/Muhammad-Ibrahim-Amjad64"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Muhammad-Ibrahim-Amjad64&style=flat-square"></a>
 
  
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
 <div align="center">
