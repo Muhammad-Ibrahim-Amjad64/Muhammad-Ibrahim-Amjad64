@@ -1,27 +1,4 @@
 
-<div id="badges">
- <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=muhammad-ibrahim-khan-68111a1a1">
-    <img src="https://img.shields.io/badge/Download_CV-white?style=for-the-badge&logo=adobe&logoColor=black" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=muhammad-ibrahim-khan-68111a1a1">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> 
-  <a href="https://portfolio-muhammad-ibrahim-khan-ubit.netlify.app/">
-    <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=next.js&logoColor=white" alt="portfolio"/>
-  </a>
-
-
-<p align="center">
-    <a href="https://github.com/Muhammad-Ibrahim-Amjad64"><img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ibrahim-Amjad64&theme=dracula&show_icons=true&hide_border=true"></a>
-    <a href="https://github.com/Muhammad-Ibrahim-Amjad64"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Ibrahim-Amjad64&theme=dracula&hide_border=true"></a>
-</p>
-<p align="center">
-   
- <a href="https://github.com/Muhammad-Ibrahim-Amjad64"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Muhammad-Ibrahim-Amjad64&style=flat-square"></a>
-
- 
-</div>
-
 
  
 
