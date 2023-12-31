@@ -19,6 +19,9 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
 
 </div>
 
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="90%" height="320" />
+
 <br>
 <h2>🌐 Socials</h2>
 <br/>
