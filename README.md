@@ -7,7 +7,7 @@
          height="45"
          width="45" /> I am Muhammad Ibrahim Khan </h1>
 
-         <h1 align="center">
+       
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Muhammad Ibrahim....&center=true&size=30">
   </a>
