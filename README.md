@@ -23,14 +23,14 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
 </div>
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="auto" />
+  <img style="    margin-bottom: 2vw;" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="auto" />
 
 <br>
 <br/>
 <hr/>
 <h2 align="center" width="100%">🌐 Socials</h2>
 <br/>
-<div width="100vw">
+<div style="display:flex; justify=content:center; align-items:center" width="100vw">
  
 <a href="https://www.linkedin.com/in/muhammad-ibrahim-khan-68111a1a1/">
   <img align="center" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
