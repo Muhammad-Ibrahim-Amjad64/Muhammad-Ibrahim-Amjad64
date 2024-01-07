@@ -25,9 +25,9 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="auto" />
 
-<br/>
-<br/>
-<h2 align="center">🌐 Socials</h2>
+<br>
+<br>
+<h2 align="center" width="100%">🌐 Socials</h2>
 <br/>
 <a href="https://www.linkedin.com/in/muhammad-ibrahim-khan-68111a1a1/">
   <img align="center" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
@@ -36,23 +36,20 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
   <img align="center" width="35px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 
-<br/>
-<br/>
+<br>
+<br>
 
 
 <a href="https://github.com/Muhammad-Ibrahim-Amjad64"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Muhammad-Ibrahim-Amjad64&style=flat-square"></a>
 
- 
 
 
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Muhammad-Ibrahim-Amjad64">
-
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2  align="center">⚡ Stats ⚡</h2>
+<hr/>
 <br>
+
 <p align=center>
   <div align=center>
     <a href="https://github.com/Muhammad-Ibrahim-Amjad64/github-readme-streak-stats" title="Go to Source">
@@ -73,12 +70,10 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ibrahim-Amjad64&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<hr>
-
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-
+<hr>
 
