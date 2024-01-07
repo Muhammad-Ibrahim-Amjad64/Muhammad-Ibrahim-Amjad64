@@ -26,7 +26,7 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="auto" />
 
 <br>
-<br>
+<br/>
 <h2 align="center" width="100%">🌐 Socials</h2>
 <br/>
 <a href="https://www.linkedin.com/in/muhammad-ibrahim-khan-68111a1a1/">
