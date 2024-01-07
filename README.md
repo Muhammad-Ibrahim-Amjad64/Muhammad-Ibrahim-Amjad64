@@ -23,7 +23,7 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
 </div>
 
 
-  <img style="    margin-bottom: 2vw;" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="auto" />
+  <img  margin-bottom= "2vw" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="auto" />
 
 <br>
 <br/>
