@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Muhammad+Ibrahim+Khan....&center=true&size=20">
   </a>
 </h1>
-
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
 <h3 align="center"> I'm a Mobile app + Web App, Developer </h3>	 
