@@ -9,7 +9,7 @@
 
 
 
-<h3 align="center"> I'm a Mobile app + Web App, Developer </h3>	 
+<h3 align="center"> Mobile Application And Web developer </h3>	 
 <br>
 <h2> About Me : </h2>
 <br/>
