@@ -7,9 +7,7 @@
   </a>
 </h1>
 
-
-
-<h3 align="center"> Mobile Application Developer | React Native, Next.js, MERN, Firebase, Postgres, MySQL, AWS | 2+ Years Experience</h3>	 
+ 
 <br>
 <h2> About Me : </h2>
 <br/>
