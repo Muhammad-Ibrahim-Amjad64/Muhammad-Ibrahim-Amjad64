@@ -26,17 +26,7 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
 <br>
 <br/>
 <hr/>
-<!-- <h2 align="center"  width="100%">🌐 Socials</h2> -->
-<!-- <br/> -->
-<!-- <div style="display:flex; justify-content:center; align-items:center ;width:100vw; background-color:red" width="100vw">
- 
 
-<!--   <img align="center" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  /> -->
-<!-- </a> -->
-<!-- <a href="mailto:mibtahimmkhann@gmail.com"> -->
-<!--   <img align="center" width="35px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /> -->
-<!-- </a> -->
-<!-- </div> --> 
 
 <br>
 <br>
