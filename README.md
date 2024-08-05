@@ -51,7 +51,7 @@ Please do not hesitate to reach out to me at +923122990606. I look forward to co
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ibrahim-Amjad64&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a> -->
   </div>
-  <br><br><br><br><br><br><br><br><br>
+
   <div align=center>
     <a href="https://github.com/Muhammad-Ibrahim-Amjad64/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ibrahim-Amjad64&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
