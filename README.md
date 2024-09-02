@@ -13,10 +13,11 @@
 <br/>
 
 <div>
-  I am a skilled MERN Stack and iOS/Android applications developer with extensive experience in utilizing cutting-edge technologies, including Next.js, React Native, React, Node.js, MongoDB, Firebase, MySQL, Git/GitHub, JavaScript, HTML5, and CSS3.
-My passion drives me to approach every task with enthusiasm, perceiving each challenge as an opportunity for growth and innovation. I possess a deep commitment to excellence, continuously seeking ways to enhance my skills and stay abreast of the latest industry advancements.
+ As a fullstack developer with experience in Node.js, React, Next.js, Vue.js, Nuxt.js, and React Native, I am a versatile and skilled professional with a passion for creating intuitive and engaging web and IOS/Android applications.
 
-Please do not hesitate to reach out to me at +923122990606. I look forward to collaborating with you and delivering exceptional results.
+With my experience in Nodejs, I have a strong foundation in Express and MVC frameworks, allowing me to quickly build robust and scalable backends for applications. My expertise in React, Next.js, React Native, Vue.js, and Nuxt.js allows me to create dynamic and interactive user interfaces, using the latest tools and techniques in frontend development.
+
+Do not hesitate to reach out to me at mibrahimmkhann@gmail.com. I look forward to collaborating with you and delivering exceptional results
 
 </div>
 
