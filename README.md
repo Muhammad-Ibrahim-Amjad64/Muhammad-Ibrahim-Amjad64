@@ -68,5 +68,7 @@ Do not hesitate to reach out to me at mibrahimmkhann@gmail.com. I look forward t
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammad-Ibrahim-Amjad6)](https://git.io/streak-stats)
+
 <hr>
 
